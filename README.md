@@ -24,8 +24,8 @@ I'm a front-end web developer working towards being a fullstack developer 👩�
 
 
 ## 🛠 Skills
-#### Front-end - HTML, CSS , Javascript
-#### Back-end - Python
+#### Frontend - HTML, CSS , Javascript
+#### Backend - Python
 
 
 
