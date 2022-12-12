@@ -10,7 +10,7 @@ I'm proficient in HTML and CSS with basic knowledge of javascript and python.
 ## 🚀 About Me
 I'm a front-end web developer working towards being a fullstack developer 👩‍💻 
 
-👩‍💻 I'm currently working on a group project
+👩‍💻 I'm currently working on a web3 project
 
 🧠 I'm currently learning Javascript and React Js
 
