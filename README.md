@@ -4,17 +4,15 @@
 
 # Hi, I'm Mutiat!  👋
 
-My name is Bashua Mutiat.
-An entry-level UI/UX Designer and Front-end Developer.
-I'm proficient in HTML and CSS with basic knowledge of javascript and python.
+My name is Mutiat Bashua.
+A Frontend developer (React JS) and UI Designer
+
 ## 🚀 About Me
-I'm a front-end web developer working towards being a fullstack developer 👩‍💻 
+I'm a frontend web developer 👩‍💻 with intermediate knowledge in React JS
 
-👩‍💻 I'm currently working on a web3 project
+🧠 I'm currently learning Cloud computing
 
-🧠 I'm currently learning Javascript and React Js
-
-👯‍♀️ I'm looking to collaborate on front-end development projects
+👯‍♀️ I'm looking to collaborate on web development projects
 
 📫 How to reach me - [mutiatbashua@gmail.com](mutiatbashua@gmail.com)
 
@@ -24,10 +22,12 @@ I'm a front-end web developer working towards being a fullstack developer 👩�
 
 
 ## 🛠 Skills
-#### Frontend - HTML, CSS , Javascript
-#### Backend - Python
+#### Frontend - HTML, CSS , Javascript , React Js
 
 
+## Tools
+Vscode
+Git and Github
 
 
 ## 🔗 Links
