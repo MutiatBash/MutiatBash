@@ -5,7 +5,7 @@
 # Hi, I'm Mutiat!  👋
 
 My name is Mutiat Bashua.
-A Frontend developer (React JS) and UI Designer
+A Frontend developer (React JS), Mobile Developer and UI Designer
 
 ## 🚀 About Me
 I'm a frontend web developer 👩‍💻 with intermediate knowledge in React JS
