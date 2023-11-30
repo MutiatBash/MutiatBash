@@ -10,7 +10,7 @@ A Frontend developer (React JS) and UI Designer
 ## 🚀 About Me
 I'm a frontend web developer 👩‍💻 with intermediate knowledge in React JS
 
-🧠 I'm currently learning Cloud computing
+🧠 I'm currently learning about Web3 and AI
 
 👯‍♀️ I'm looking to collaborate on web development projects
 
@@ -22,7 +22,7 @@ I'm a frontend web developer 👩‍💻 with intermediate knowledge in React JS
 
 
 ## 🛠 Skills
-#### Frontend - HTML, CSS , Javascript , React Js
+#### Frontend - HTML, CSS , Javascript , React Js, React Native, Solidity
 
 
 ## Tools
